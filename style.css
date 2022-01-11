@@ -29,6 +29,7 @@ img{
 }
 #menu1{
     position:relative;
+    
 }
 #top-hide{
     position:absolute;
@@ -40,8 +41,9 @@ img{
 #bottom-hide{
     position:absolute;
     width:456px;
-    height:30px;
+    height:60px;
     background:#f7f6f4;
     bottom:0;
+    left:0;
     display: inline-block;
 }
