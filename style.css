@@ -2,6 +2,9 @@
     padding:0;
     margin:0;
 }
+iframe{
+    background: #f7f6f4;
+}
 .card{
     background: #ffffff00;   
 }
