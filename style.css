@@ -24,3 +24,19 @@ img{
 .c4{
     grid-row:span 2;
 }
+#menu1{
+    position:relative;
+}
+#top-hide{
+    position:absolute;
+    width:456px;
+    height:30px;
+    background: #f7f6f4;
+}
+#bottom-hide{
+    position:absolute;
+    width:456px;
+    height:30px;
+    background:#f7f6f4;
+    bottom:0;
+}
